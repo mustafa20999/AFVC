@@ -1,7 +1,9 @@
 Apple Fruit Varieties Collection (AFVC), which consists of 85 classes, with 29, 750 images, each class has 315 for Train and 35 for Test.  
+
 `The Freedom Apple, SweeTango, Ribston Pippin, Golden Russet, Goldrush, Royal Gala, Crimson Gold, Black Oxford, Rhode Island Greening, Evercrisp,
 Rubinette, Annurca, Lady Alice, Fireside, Atlas, Smokehouse, Lady, Blue Pearmain, Sleeping Beauty, York Imperial, Winesap, Longfield,
 Winter Banana, Baldwin, Tompkins King, Arkansas Black, Crispin, Mutsu, Pacific Rose, Kanzi, Autumn Glory, Haralson, Stayman, Opal,
 White Transparent, Ein Shemer, First Kiss, SnowSweet, Pristine, Honeygold, Rave, Grimes Golden, Lodi, Northern Spy, Bramley, Cameo,
-Melrose, Wolf River, Paula Red, Gravenstein, Ginger Gold, Koru, Jonagold, Black Diamond, Mac, Cosmic Crisp, Wealthy, pinova, Newtown Pippin,Macoun, Rome, Enterprise, Pixie Crunch, Zestar, Liberty, Jonathan, Rockit, Dorsett, Sweet Sixteen, Spartan, Anna, Envy, Kiku, Empire,
-Jazz, Snapdragon, Cortland, Honeycrisp, Ambrosia, braeburn, Red Delicious, Granny Smith, Golden Delicious, Fuji, and Gala'. 
+Melrose, Wolf River, Paula Red, Gravenstein, Ginger Gold, Koru, Jonagold, Black Diamond, Mac, Cosmic Crisp, Wealthy, pinova, 
+Newtown Pippin,Macoun, Rome, Enterprise, Pixie Crunch, Zestar, Liberty, Jonathan, Rockit, Dorsett, Sweet Sixteen, Spartan, Anna, Envy, 
+Kiku, Empire, Jazz, Snapdragon, Cortland, Honeycrisp, Ambrosia, braeburn, Red Delicious, Granny Smith, Golden Delicious, Fuji, and Gala'. 
