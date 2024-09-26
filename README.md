@@ -9,5 +9,3 @@ If you use any of the datasets above, please cite the paper below.
 
 Apple varieties, Diseases, and distinguishing between fresh and rotten through deep learning approaches
 
-Advances in Apple’s Automated Orchard Equipment: A Comprehensive Research
-https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=coauthor
